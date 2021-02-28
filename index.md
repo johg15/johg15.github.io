@@ -1,14 +1,19 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/profile-img.jpg
   alt: website picture
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome to JBNU AI Robotics (JAIR) Lab!
+</p>
+<p>
+  I'm HyungGi Jo, an Assistant Professor at the Department of Electronic Engineering, Jeonbuk National University, Jeonju, Korea. My research field is Spatial AI and Intelligent Robotics. Please contact me by email: hygijo@jbnu.ac.kr
 </p>
 
+<!--
 <p>
   You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
 </p>
+-->
