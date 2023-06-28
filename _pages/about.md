@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>airlab.jbnu.ac.kr</p>
-    <p>hygijo@jbnu.ac.kr</p>
-    <p>Jeonbuk National University</p>
+    <p>📧 hygijo [at] jbnu.ac.kr</p>
+    <p>📍 No7. College of Eng. Bldg, 567 Baekje-daero, Jeonju-si, Korea, 54896
+    </p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
