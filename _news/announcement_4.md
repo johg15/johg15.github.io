@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-See you soon! :sparkles: :smile:
+홈페이지 공사중
