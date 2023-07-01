@@ -6,7 +6,7 @@ subtitle: #jhg <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: team.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>📧 hygijo [at] jbnu.ac.kr</p>
