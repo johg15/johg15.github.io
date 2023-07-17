@@ -27,6 +27,8 @@ Please see this page. <https://sites.google.com/view/jair-lab >
 
 학부연구생, 대학원 진학 관련 안내 <https://bit.ly/3xN4VMb>
 
+문의 사항 hygijo@jbnu.ac.kr
+
 
 
 <!--
