@@ -23,7 +23,7 @@ Our lab is part of the [Division of Electronic Engineering](https://eei.jbnu.ac.
 
 _This page is currently under construction._
 
-Please see this page. <https://sites.google.com/view/jair-lab >
+Please see this page. <https://sites.google.com/view/airlab-jbnu>
 
 학부연구생, 대학원 진학 관련 안내 <https://bit.ly/3xN4VMb>
 
