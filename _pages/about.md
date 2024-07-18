@@ -21,9 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 Our lab is part of the [Division of Electronic Engineering](https://eei.jbnu.ac.kr) at [Jeonbuk National University](https://jbnu.ac.kr). We are studying how robots can achieve spatial understanding. The main topic of our research is to understand the concept of computational intelligence and to design intelligent systems. Especially, we focus on the following research areas: robot perception, autonomous navigation and multi-robot systems. 
 
-_This page is currently under construction._
-
-Please see this page. <https://sites.google.com/view/airlab-jbnu>
+다음 링크를 참고해주세요! Please see this page. <https://sites.google.com/view/airlab-jbnu>
 
 학부연구생, 대학원 진학 관련 안내 <https://bit.ly/3xN4VMb>
 
